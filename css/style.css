@@ -1,0 +1,316 @@
+header{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    padding-top: 20px;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 60%;
+    float: right;
+    /* overflow: hidden; */
+}
+nav ul{
+    list-style: none;
+    float: right;
+    margin: 0%;
+}
+nav ul li{
+    float: left;
+    margin-left: 50px;
+    text-transform:uppercase;
+    color: #626262;
+    font-size: 18px;
+}
+.banner{
+    width: 90%;
+    margin: auto;
+}
+.banner img{
+    width: 100%;
+}
+.photodiary{
+    width: 80%;
+    margin: auto;
+}
+.photodiary h6{
+    margin: 0;
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.photodiary h1{
+    margin: 0;
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: 15px 0px;
+}
+.photodiary p{
+    margin: 0;
+    color: #626262;
+    font-size: 16px;
+}
+.lifestyle{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 100px;
+}
+.lifestyle1{
+    width: 47%;
+    float: left;
+}
+.lifestyle1 img{
+    width: 100%;
+}
+.lifestyle1 h1{
+    margin: 0;
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: 15px 0px;
+}
+.lifestyle1 h6{
+    margin: 0;
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.lifestyle1 p{
+    margin: 0;
+    color: #626262;
+    font-size: 16px;
+}
+.lifestyle2{
+    width: 47%;
+    float: right;
+}
+.lifestyle2 img{
+    width: 100%;
+}
+.lifestyle2 h1{
+    margin: 0;
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: 15px 0px;
+}
+.lifestyle2 h6{
+    margin: 0;
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.lifestyle2 p{
+    margin: 0;
+    color: #626262;
+    font-size: 16px;
+}
+.photodiary1{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 100px;
+}
+.photodiary2{
+    width: 47%;
+    float: left;
+}
+.photodiary2 img{
+    width: 100%;
+}
+.photodiary2 h1{
+    margin: 0;
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: 15px 0px;
+}
+.photodiary2 h6{
+    margin: 0;
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.photodiary2 p{
+    margin: 0;
+    color: #626262;
+    font-size: 16px;
+}
+.photodiary3{
+    width: 47%;
+    float: right;
+}
+.photodiary3 img{
+    width: 100%;
+}
+.photodiary3 h1{
+    margin: 0;
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: 15px 0px;
+}
+.photodiary3 h6{
+    margin: 0;
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.photodiary3 p{
+    margin: 0;
+    color: #626262;
+    font-size: 16px;
+}
+.newsletter{
+ background-color:#f0f0f0;
+ padding: 30px;
+}
+.signup{
+    width: 30%;
+    margin: auto;
+    position: relative;
+}
+.signup h1{
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #626262;
+    margin-bottom: 60px;
+}
+.signup input{
+    width: 100%;  
+    background: transparent;
+    border: none;
+    border-bottom:1px solid #626262 ;
+}
+.img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.lifestyle3{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 100px;
+}
+.lifestyle4{
+    width: 47%;
+    float: left;
+}
+.lifestyle4 img{
+    width: 100%;
+}
+.lifestyle4 h1{
+    margin: 0;
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: 15px 0px;
+}
+.lifestyle4 h6{
+    margin: 0;
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.lifestyle4 p{
+    margin: 0;
+    color: #626262;
+    font-size: 16px;
+}
+.lifestyle5{
+    width: 47%;
+    float: right;
+}
+.lifestyle5 img{
+    width: 100%;
+}
+.lifestyle5 h1{
+    margin: 0;
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: 15px 0px;
+}
+.lifestyle5 h6{
+    margin: 0;
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.lifestyle5 p{
+    margin: 0;
+    color: #626262;
+    font-size: 16px;
+}
+.btn{
+    text-align: center;
+    margin: 100px 0px;
+    /* color:#626262 ; */
+}
+button{
+    border: none;
+    background: transparent;
+    border: 1px solid #dddcd7;
+    padding: 13px 25px;
+    font-size: 18px;
+    color: #626262;
+}
+footer{
+ background: #f0f0f0;
+ padding: 25px;
+}
+.footer_content{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.terms{
+    width: 30%;
+    float: left;
+}
+.terms ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+}
+.terms ul li{
+    float: left;
+    margin-right: 25px;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #000000;
+}
+.social{
+    width: 40;
+    /*! width: ; */
+    float: right;
+}
+.social ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+}
+.social ul li{
+    float: left;
+    margin-left: 20px;
+}
+.social ul li a{   
+    text-decoration: none;
+    font-size: 16px;
+    color: #626262;
+}
